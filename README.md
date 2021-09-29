@@ -18,6 +18,10 @@ This section describes deployment.
 
 This section describes BAU Process.
 
+## How to contribute
+
+Fork repository and then issue PR for review.
+
 ## Copyright
 
 2021 Git.Training.
