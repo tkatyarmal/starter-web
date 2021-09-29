@@ -17,3 +17,7 @@ This section describes deployment.
 ## BAU Process
 
 This section describes BAU Process.
+
+## Copyright
+
+2021 Git.Training.
