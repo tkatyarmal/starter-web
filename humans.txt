@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Tejas Katyarmal     tkatyarmal@deloitte.co.uk       @tej
 
 # THANKS
 
